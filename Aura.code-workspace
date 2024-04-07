@@ -10,7 +10,11 @@
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off"
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"ios": "cpp",
+			"xiosbase": "cpp"
+		}
 	},
 	"extensions": {
 		"recommendations": [
