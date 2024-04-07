@@ -1,0 +1,11 @@
+/.git
+<<<<<<< HEAD
+/.vs
+=======
+>>>>>>> 5c35b6c (The Base Character Class)
+/.vscode
+/Content
+/DerivedDataCache
+/Intermediate
+/Platforms
+/Saved
