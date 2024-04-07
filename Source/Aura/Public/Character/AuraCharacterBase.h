@@ -17,9 +17,6 @@ public:
 protected:
 	virtual void BeginPlay() override;
 
-<<<<<<< HEAD
 	UPROPERTY(EditAnywhere, Category = "Combat")
 	TObjectPtr<USkeletalMeshComponent> Weapon;
-=======
->>>>>>> 9927415 (Player and Enemy Characters)
 };

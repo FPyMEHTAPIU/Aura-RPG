@@ -2,7 +2,6 @@
 
 
 #include "Character/AuraEnemy.h"
-<<<<<<< HEAD
 #include "Aura/Aura.h"
 
 AAuraEnemy::AAuraEnemy()
@@ -23,6 +22,3 @@ void AAuraEnemy::UnHighlightActor()
 	GetMesh()->SetRenderCustomDepth(false);
 	Weapon->SetRenderCustomDepth(false);
 }
-=======
-
->>>>>>> 9927415 (Player and Enemy Characters)

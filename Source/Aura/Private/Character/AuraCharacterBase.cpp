@@ -7,12 +7,9 @@ AAuraCharacterBase::AAuraCharacterBase()
 {
 	PrimaryActorTick.bCanEverTick = false;
 
-<<<<<<< HEAD
 	Weapon = CreateDefaultSubobject<USkeletalMeshComponent>("Weapon");
 	Weapon->SetupAttachment(GetMesh(), FName("WeaponHandSocket"));
 	Weapon->SetCollisionEnabled(ECollisionEnabled::NoCollision);
-=======
->>>>>>> 9927415 (Player and Enemy Characters)
 }
 
 void AAuraCharacterBase::BeginPlay()

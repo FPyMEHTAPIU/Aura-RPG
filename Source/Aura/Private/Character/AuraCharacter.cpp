@@ -2,7 +2,6 @@
 
 
 #include "Character/AuraCharacter.h"
-<<<<<<< HEAD
 #include "GameFramework/CharacterMovementComponent.h"
 
 
@@ -17,6 +16,4 @@ AAuraCharacter::AAuraCharacter()
     bUseControllerRotationRoll = false;
     bUseControllerRotationYaw = false;
 }
-=======
->>>>>>> 9927415 (Player and Enemy Characters)
 

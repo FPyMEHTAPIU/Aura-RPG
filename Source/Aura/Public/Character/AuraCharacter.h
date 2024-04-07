@@ -13,10 +13,6 @@ UCLASS()
 class AURA_API AAuraCharacter : public AAuraCharacterBase
 {
 	GENERATED_BODY()
-<<<<<<< HEAD
 public:
 	AAuraCharacter();
-=======
-	
->>>>>>> 9927415 (Player and Enemy Characters)
 };
