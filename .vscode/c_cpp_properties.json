@@ -7,7 +7,10 @@
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
             "configurationProvider": "epic.ue",
-            "compileCommands": "C:\\UnrealProjects\\Aura\\.vscode\\compileCommands_Aura.json"
+            "compileCommands": "C:\\UnrealProjects\\Aura\\.vscode\\compileCommands_Aura.json",
+            "includePath": [
+                "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\"
+            ]
         },
         {
             "name": "Win32",
