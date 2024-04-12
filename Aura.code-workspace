@@ -13,7 +13,8 @@
 		"typescript.tsc.autoDetect": "off",
 		"files.associations": {
 			"ios": "cpp",
-			"xiosbase": "cpp"
+			"xiosbase": "cpp",
+			"*.rh": "cpp"
 		}
 	},
 	"extensions": {
